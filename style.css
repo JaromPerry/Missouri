@@ -67,8 +67,9 @@ header {
     background-color: #E63946;
     padding: 10px;
     margin-top: 10px;
-    color: #0F1C2E;
+    color: #ffffff;
     border-radius: 5px;
+    width: 300px;
   }
 
   a:link {
