@@ -1,4 +1,16 @@
 
+body {
+  background-color: #A8DADC;
+}
+
+header {
+  background-color: #1D3557;
+  color: white;
+  text-align: center;
+  padding: 5px;
+  font-size: 30px;
+}
+
 .topnav {
     background-color: #0F1C2E;
     overflow: hidden;
@@ -21,20 +33,16 @@
     color: black;
   }
   
-  
   .topnav a.active {
     background-color: rgb(147, 10, 10);
     color: white;
   }
-
-  header {
-    background-color: #1D3557;
-    color: white;
-    text-align: center;
-    padding: 5px;
-    font-size: 30px;
-  }
   
+  section {
+    float: left;
+    padding: 10px;
+    margin-bottom: 50px;
+  }
 
   #content {
     color: white;
@@ -44,17 +52,6 @@
     float: left;
     width: auto;
     padding: 5px;
-  }
-
-  body {
-    background-color: #A8DADC;
-  }
-  
-  section {
-    float: left;
-    padding: 10px;
-    margin-bottom: 50px;
-    
   }
 
   table, th, td{
